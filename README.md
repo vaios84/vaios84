@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development, information systems and data science.
 - 🌱 I’m currently learning Machine Learning Algorithms, Big Data Analysis, Knowledge Mining and Recommender Systems.
 - 💞️ Desinging brand new Recommender Systems using advanced Machine Learning/Deep Learning.
-- 💞️ Studying Large Language Models like BERT, GPT-3, etc.
+- 💞️ Studying Large Language Models like LLaMA, BERT, GPT-4, etc.
 - 📫 How to reach me: sterg.vaios@gmail.com or vaios84@yahoo.gr
 
 <!---
